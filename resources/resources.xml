@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <drawables>
+        <bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+        <bitmap id="Background" filename="drawables/background.png" />
+    </drawables>
+</resources>
